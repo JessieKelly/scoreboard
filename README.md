@@ -1,1 +1,2 @@
 # scoreboard
+React Scoreboard App
